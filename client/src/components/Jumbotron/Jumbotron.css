@@ -1,0 +1,8 @@
+.jumbotron {
+    height: 200px;
+    clear:both; 
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 3rem;
+    color: #0f23d1;
+    text-align:center;
+}
